@@ -29,6 +29,7 @@ A continuación, ejecutar:
 De esta manera, comenzará a correr el proyecto en el puerto 3000.
 
 ## Deploy
+El sitio puede verse deployado [AQUÍ](https://61088630f5c202583f0c5502--naughty-mclean-9846e0.netlify.app/).
 
 
 ## Puntos a desarrollar para mejorar la aplicación
